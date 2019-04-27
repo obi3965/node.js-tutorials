@@ -17,6 +17,8 @@ window.onload = function() {
 };
 
 
+let bodyImage = document.querySelector("#body-image");
+
 
 
 
