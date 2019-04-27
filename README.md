@@ -1,5 +1,8 @@
 # node.js-tutorials
 
-## table of contents
-1. Global objects
+## Table of Contents
+
+### Global objects
+*global object in node.js is not the window object because we are not in browser*
+
 
